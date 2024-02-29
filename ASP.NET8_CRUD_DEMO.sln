@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34601.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP.NET8_CRUD_DEMO", "ASP.NET8_CRUD_DEMO\ASP.NET8_CRUD_DEMO.csproj", "{4972340C-AE67-4563-A562-C9260829B8EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4972340C-AE67-4563-A562-C9260829B8EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4972340C-AE67-4563-A562-C9260829B8EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4972340C-AE67-4563-A562-C9260829B8EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4972340C-AE67-4563-A562-C9260829B8EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8061BA1E-13EC-43BA-83AE-ED2EF651A39D}
+	EndGlobalSection
+EndGlobal
