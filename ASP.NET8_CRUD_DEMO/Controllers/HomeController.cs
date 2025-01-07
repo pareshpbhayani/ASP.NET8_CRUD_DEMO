@@ -7,12 +7,12 @@ namespace ASP.NET8_CRUD_DEMO.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
-
+        //comment
         public HomeController(ILogger<HomeController> logger)
         {
             _logger = logger;
         }
-
+        //comment
         public IActionResult Index()
         {
             return View();
